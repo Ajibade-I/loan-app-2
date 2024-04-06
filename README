@@ -77,6 +77,14 @@ This is a loan application built with Node.js and Express.js.
 - **GET /users/:userId/loan-requests:** Get user requests (private).
 - **GET /users/:userId/transactions:** Get user transactions (private).
 
+## Environment Variables
+
+- `MONGO_URI`: MongoDB connection URI.
+- `JWT_PRIVATE_KEY`: Private key used for JWT token generation.
+- `ACCOUNT_ID`: MongoDB Account Model objectID.
+- `CLIENT_URL`: URL of the client application.
+- `NODE_ENV`: Environment mode (development, production, etc.).
+
 ## Contributors
 
 - [Ajibade Isiaka](https://github.com/Ajibade-I)
