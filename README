@@ -1,3 +1,4 @@
+```markdown
 # Loan App
 
 This is a loan application built with Node.js and Express.js.
@@ -81,6 +82,5 @@ This is a loan application built with Node.js and Express.js.
 
 - [Ajibade Isiaka](https://github.com/Ajibade-I)
 
-## License
 
-This project is licensed under the ISC License.
+```
