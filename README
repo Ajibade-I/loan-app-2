@@ -1,4 +1,3 @@
-```markdown
 # Loan App
 
 This is a loan application built with Node.js and Express.js.
@@ -20,11 +19,11 @@ This is a loan application built with Node.js and Express.js.
 
 - **Authentication and Authorization:** Secure user authentication using JWT ensures controlled access to the application.
 - **Error Handling:** Comprehensive error management with custom messages enhances the user experience.
-- **Middleware:** Leveraging Express.js middleware like cookie-parser, cors, and express-session for enhanced security and performance.
+- **Middleware:** Leveraging Express.js middleware like `cookie-parser`, `cors`, and `express-session` for enhanced security and performance.
 - **Validation:** Integration of Yup schema validation maintains data integrity and enforces input validation rules.
 - **Database:** MongoDB with Mongoose for data storage and manipulation.
-- **Password Encryption:** User passwords are encrypted using bcryptjs to ensure secure storage.
-- **Email Notification:** Seamless email notifications powered by nodemailer for user account activation, password reset, and confirmation.
+- **Password Encryption:** User passwords are encrypted using `bcryptjs` to ensure secure storage.
+- **Email Notification:** Seamless email notifications powered by `nodemailer` for user account activation, password reset, and confirmation.
 - **Loan Management:** Users can create accounts, request loans, fund accounts, manage loan requests, and refund loans.
 
 ## Tech Stack
@@ -81,6 +80,3 @@ This is a loan application built with Node.js and Express.js.
 ## Contributors
 
 - [Ajibade Isiaka](https://github.com/Ajibade-I)
-
-
-```
